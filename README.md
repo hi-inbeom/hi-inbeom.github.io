@@ -1,5 +1,5 @@
 # Web-Vue-Spring  
-https://github.com/hi-inbeom/Web-Vue-Spring
+<a href="https://github.com/hi-inbeom/Web-Vue-Spring" target="_blank" rel="noopener noreferrer">Web-Vue-Spring</a>
 
 ## 프로젝트 소개
 Vue-Spring 연습을 위한 SPA 개인 프로젝트
